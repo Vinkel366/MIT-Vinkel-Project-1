@@ -1,0 +1,30 @@
+.heading1{
+    color: brown;
+}
+.heading2{
+    font-style: italic;
+}
+#myheading{
+    font-style: oblique;
+}
+.emobilis{
+    background-color: lime;
+    padding-top: 30px;
+    padding-left: 50px;
+    padding-bottom: 30px;
+    margin-left: 50px;
+    margin-right: 50px;
+    color: white;
+}
+.main{
+    display: flex;
+    }
+.paragraph1{
+    background-color: darkblue;
+    }
+.paragraph2{
+    background-color: deepskyblue;
+}
+.paragraph3{
+    background-color: aqua;
+}
